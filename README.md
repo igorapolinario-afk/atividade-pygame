@@ -7,7 +7,7 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 ## Integrantes do grupo
 
 - Ricardo Santana Kill
-- Gustavo Alberto Araújo de sá 
+- Gustavo Alberto Araújo de Sá 
 - Igor Pereira Apolinário 
 - Fernando Gomes Reis de Resende
 
